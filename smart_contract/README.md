@@ -16,3 +16,5 @@ npx hardhat help
 
 Deployed Contract Address = 0x1e4b9Fa5ce55f3DeC7e5466e2F1c607D3B2c8F00
 
+Verify contract:  https://rinkeby.etherscan.io/address/0x1e4b9fa5ce55f3dec7e5466e2f1c607d3b2c8f00
+
